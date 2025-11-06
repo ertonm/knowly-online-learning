@@ -1,3 +1,5 @@
+Technically my first ever React App. Had no idea what i was doing and an insane amount of uncontrolled Ai use also had attempts of publishing in lovable, netlify and lastly vercel, cooked with the supabase backend cus that fixed every problem with the database. Tbh this was a group project and i did it myself it took a lot of months of work to get everything to work and if you run the database most functionalities work perfectly. Debugging this app felt like i was a using windsurf as a prisoner because it porbably spent an entire month debugging eslint errors ngl. It got me and my group a max grade so im quite proud of this one even though it will forever be my worst ever attempt at a react app even worse than my first website attempt.
+
 
 ## Project info
 
